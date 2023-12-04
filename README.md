@@ -1,2 +1,2 @@
-# ultralytics-scripts
-collection for some of my ultralytics scripts
+# yolov8-scripts
+collection for some of my yolov8 scripts
